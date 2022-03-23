@@ -5,7 +5,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import '../firebase_options.dart';
 
 
-
+tinto
 class RegisterView extends StatefulWidget {
   const RegisterView({Key? key}) : super(key: key);
 
